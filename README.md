@@ -19,7 +19,7 @@
 - [ksm0520](./ksm0520) – 팀 리더
 - [Wongahyeong](./Wongahyeong) – 팀원
 - [jxieun](./jxieun)– 팀원
--  – 팀원
--  – 팀원
+- [BooYoong](./BooYoong) – 팀원
+- [ourhome527-max](./ourhome527-max) – 팀원
   
 *(이름은 자유롭게 변경 가능)*
